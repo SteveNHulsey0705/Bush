@@ -1,0 +1,5 @@
+[25-Jan-2018 13:17:18 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/josecreativa/public_html/bushmen/wp-content/themes/divi/single.php on line 34
+[25-Jan-2018 14:40:49 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/josecreativa/public_html/bushmen/wp-content/themes/divi/core/functions.php on line 698
+[25-Jan-2018 14:41:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/josecreativa/public_html/bushmen/wp-content/themes/divi/core/functions.php on line 698
+[25-Jan-2018 14:43:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/josecreativa/public_html/bushmen/wp-content/themes/divi/core/functions.php on line 698
+[27-Mar-2018 13:44:13 UTC] PHP Fatal error:  Class 'ET_Core_Post_Query' not found in /home/josecreativa/public_html/bushmen/wp-content/themes/divi/includes/builder/post/query/Layouts.php on line 4
